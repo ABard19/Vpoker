@@ -888,11 +888,13 @@ int main()
 				cout << "-------------------" << endl;
 				print_items(discard);
 				user = false;
+				inputLim=0;
 			}
 			else
 			{
 				cout << "Please enter valid characters" << endl;
 				user = true;
+				inputLim=0;
 			}
 		}while (user);
 
