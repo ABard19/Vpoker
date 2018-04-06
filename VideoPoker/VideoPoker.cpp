@@ -169,19 +169,19 @@ void print_hand(linked_list* list)
 		string face;
 		if (n->suit == 'C')
 		{
-			type = "Clubs";
+			type = "Cunts";
 		}
 		else if (n->suit == 'D')
 		{
-			type = "Diamonds";
+			type = "Dicks";
 		}
 		else if (n->suit == 'H')
 		{
-			type = "Hearts";
+			type = "Balls";
 		}
 		else if (n->suit == 'S')
 		{
-			type = "Spades";
+			type = "Boobs";
 		}
 
 		char which;
